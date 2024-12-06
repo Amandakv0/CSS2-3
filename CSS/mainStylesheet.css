@@ -242,18 +242,23 @@
     font-size: 16px;
 }
 #phoneLogoFrame{
-    display: inline-block;
     vertical-align: middle;
-    margin-top: 28px;
+    margin-top: 26px;
+    display: inline-block;
 }
 #phoneInfoFrame{
+    margin-top: 24px;
+    vertical-align: middle;
     width: 100%;
     max-width: 263px;
-    vertical-align: middle;
     display: inline-block;
 }
 #phoneParag{
    color: #000;
    font-size: 20px; 
+}
+#phoneNumber{
+    color: #6D5F8B;
+    font-size: 16px;
 }
 
