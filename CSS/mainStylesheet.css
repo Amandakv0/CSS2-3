@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navBarMainFrame{
+    box-sizing: content-box;
+    max-width: 1000px;
+    width: 100%;
+    height: 48px;
+    padding: 12px 24px;
+    margin-left: auto;
+    background-color: #F7F4FF;
+}
+#navBarContentMainFrame{
+    width: 100%;
+    max-width: 1183px;
+    height: 48px;
+    margin: 0 auto;
+    text-align: center;
+}
+#logoNextMove{
+    width: 147px;
+    height: 21px;
+    padding: 14px;
+    display: inline-block;
+}
+#contentInnerFrame{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+#about{
+    display: inline-block;
+    color: #323;
+    font-size: 18px;
+    padding: 20px;
+}
+#offer{
+    display: inline-block;
+    color: #323232;
+    font-size: 18px;
+    padding: 20px;
+}
+#contact{
+    display: inline-block;
+    padding: 20px;
+    color: #8E26C0;
+    font-size: 18px;
+}
+#help{
+    margin: 0;
+    display: inline-block;
+    padding: 20px;
+    color: #323232;
+    font-size: 18px;
+}
+
+#navBarLogo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 180px;
+}
+#contactUsFrame{
+    display: inline-block;
+    box-sizing: content-box;
+    width: 73px;
+    height: 17px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    margin-left: 58px;
+    align-items: center;
+    1px solid #8E26C0;
+}
+#cotactParag{
+    color: #8E26C0;
+    display: inline-block;
+    font-size: 14px;
+}
+#mainSectionFrame{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    height: 458px;
+    margin-top: 142px;
+    display: inline-block;
+}
+#whatWeOfferContentFrame{
+    display: inline-block;
+    max-width: 800px;
+    width: 100%;
+    vertical-align: top;
+    height: 300px;
+}
+#offerHeader{
+    max-width: 800px;
+    width: 100%;
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+    display: inline-block;
+}
+#offerParag{
+    margin: 0;
+    padding: 16px;
+    max-width: 800px;
+    width: 100%;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    display: inline-block;
+}
+#orderedListFrame{
+    text-align: left;
+    width: 330px;
+    height: 160px;
+    margin-left: 45px;
+}
+#listedItemStyle{
+    margin: 0;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+}
+#lastMainFrame{
+    max-width: 880px;
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+}
+#firstInnerFrame{
+    max-width: 600px;
+    width: 100%;
+    height: 140px;
+    margin: 0 auto;
+}
+#ContactUsMainBigFrame{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+#mainParag{
+    display: inline-block;
+    width: 100%;
+    max-width: 905px;
+    text-align: center;
+    
+}
+#contactSecondHeader{
+    font-size: 56px;
+    text-align: center;
+    margin: 0;
+    color: #000;
+}
+#loremIpsum{
+    color: #535862;
+    margin: 0;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 18px;
+    padding-bottom: 28px;
+}
+#lastMainPurpleFraim{
+    width: 100%;
+    max-width: 1157px;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #F7F4FF;
+    display: inline-block;
+}
+#whiteBoardMainFrame {
+    display: inline-block;
+    padding: 20px;
+    width: 364px;
+    border-radius: 16px;
+    background: #FFF;
+    height: 300px;
+}
+#addressMainFrame{
+    width: 100%;
+    max-width: 263px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#addressLogo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 56px;
+}
+#adress{
+    font-size: 20px;
+    color: #000;
+}
+#glen{
+    color: #6D5F8B;
+    font-size: 13px;
+}
+#secondInnderFrameMessage{
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    max-width: 330px;
+    height: 414px;
+    margin-left: 24px;
+    border: 2px solid black;
+}
+#sendMessage{
+    color: #1B003D;
+    font-size: 32px;
+    display: inline-block;
+    text-align: left;
+}
+
+
+#whiteBoardLogo {
+    display: inline-block;
+    margin-bottom: 28px;
+}
+#emailMainFrame{
+    width: 100%;
+    max-width: 263px;
+    vertical-align: middle;
+    display: inline-block;
+}
+#emailLogoFrame{
+    vertical-align: middle;
+    display: inline-block;
+}
+#emailParag{
+    color: #000;
+    font-size: 20px;
+}
+#emailParagText{
+    color: #6D5F8B;
+    font-size: 16px;
+}
+#phoneLogoFrame{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 28px;
+}
+#phoneInfoFrame{
+    width: 100%;
+    max-width: 263px;
+    vertical-align: middle;
+    display: inline-block;
+}
+#phoneParag{
+   color: #000;
+   font-size: 20px; 
+}
+
